@@ -1,0 +1,35 @@
+# OS bestanden
+.DS_Store
+Thumbs.db
+
+# IDE / Editor bestanden
+.vscode/
+.idea/
+*.swp
+
+# Logbestanden
+*.log
+error_log
+debug.log
+
+# Composer dependencies
+/vendor/
+
+# Uploads en tijdelijke bestanden
+uploads/
+tmp/
+cache/
+img/
+
+# Environment/config bestanden
+.env
+.env.*
+config.php
+db.php
+
+# Backup files
+*.bak
+*.sql
+*.tar
+*.zip
+*.gz
